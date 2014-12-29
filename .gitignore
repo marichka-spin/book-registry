@@ -1,0 +1,8 @@
+.idea/
+book-registry.iml
+ear/book-registry-ear.iml
+ear/target/
+ejb/book-registry-ejb.iml
+ejb/target/
+web/book-registry-web.iml
+web/target
